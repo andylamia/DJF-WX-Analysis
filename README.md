@@ -1,2 +1,2 @@
-# WinterWeather
-County-level winter weather loss analysis (SHELDUS) combined with ERA5 upper-air weather variables to identify key drivers of Midwest DJF property damage.
+# Winter Weather Property Damage Analysis
+Combining mapping analyses of county-level winter weather loss (SHELDUS), snowfall accumulation (NOHRSC), and upper-air weather variables (ERA5) to identify key drivers of Midwest DJF property damage.
